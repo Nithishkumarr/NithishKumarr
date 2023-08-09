@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Multivendor Book selling App](https://github.com/Nithishkumarr/BookMultiSeller)
 
-- 🌱 I’m currently learning **Redux tollkit,tailwind,SEO**
+- 🌱 I’m currently learning **Redux toolkit,tailwind,SEO**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nithishkumarr?tab=repositories](https://github.com/Nithishkumarr?tab=repositories)
 
